@@ -18,3 +18,12 @@ A search tool for fiber artists that ranks results by a predicted score regardin
 14. yarnatron.py: the app!
 15. setup.py: additional script for compiling the app
 16. Sample Runs.docx: Detailed description of app with screenshots
+
+
+## Planned improvements
+- increase size of training set by manually labelling 100-200% more yarns
+- re-run all exploration of classification methods with the larger training set
+- build SQL database and adapt the app to use this database instead of using local CSVs
+- ditch easygui for a much more user friendly web-based interface
+- add more unwanted attributes, i.e., scratchy, smelly, knotty
+
