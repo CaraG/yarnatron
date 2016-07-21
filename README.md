@@ -1,5 +1,5 @@
 ## version 0.8
-A search tool for fiber artists that ranks results by a predicted score regarding unwanted attributes of yarn (e.g., pilling and splitting).
+A search tool for knitters and other fiber artists that ranks results by a predicted score regarding unwanted attributes of yarn (e.g., pilling and splitting). Uses data from Ravelry.com
 
 ## Contents
 1. yarn_scrape.py: various functions for scraping all required data from the Ravelry API and from ravelry.com
