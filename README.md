@@ -14,7 +14,7 @@ A search tool for fiber artists that ranks results by a predicted score regardin
 10.	yarn_search.csv: output data from preprocessing_search_data.py, used by and packaged with app 
 11.	TO BE UPLOADED: text processing Jupyter notebook; includes exporation of unigrams and bigrams, stemming, removal of stop words, POS labeling, TF-IDF vectorization, kmeans clustering of TF-IDF results, cluster silhouette analysis, Davies Bouldin index analysis
 12.	process_comments.py: first version of code to process text (TO BE IMPROVED)
-13. TO BE UPLOADED: classification Jupyter notebook; adds cluster assignment from text processing as an attribute; includes exploration of SVM, Rocchio prototype vectors, logistic regression, etc
+13. TO BE UPLOADED: classification Jupyter notebook; adds cluster assignment from text processing as an attribute; includes exploration of SVM, Rocchio prototype vectors, logistic regression, LDA, random forests, etc
 14. Sample Data and Description.xlsx: The first tab of the spreadsheet contains a sample of the data used by the Yarnatron app, The second tab contains a Data Dictionary of the same data.
 15. yarnatron.py: the app!
 16. setup.py: additional script for compiling the app
